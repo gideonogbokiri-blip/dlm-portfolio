@@ -60,7 +60,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="http://192.168.0.120:3000/company/login"
+                  href="https://dlm-cyan.vercel.app/company/login"
                   className="text-gray-400 hover:text-white transition-colors"
                 >
                   Login

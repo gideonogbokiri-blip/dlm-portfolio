@@ -50,7 +50,7 @@ export default function Hero() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <Link
-                href="http://192.168.0.120:3000/company/register"
+                href="https://dlm-cyan.vercel.app/company/register"
                 className="px-8 py-4 bg-primary text-white font-semibold rounded-xl hover:bg-primary-dark transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-primary/30 text-center"
               >
                 Get Started

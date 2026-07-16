@@ -23,7 +23,7 @@ const services = [
         />
       </svg>
     ),
-    link: "http://192.168.0.120:3000/company/login",
+    link: "https://dlm-cyan.vercel.app/company/login",
     features: [
       "Real-time dashboard",
       "Fleet management",

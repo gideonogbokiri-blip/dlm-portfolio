@@ -68,13 +68,13 @@ export default function Navbar() {
           {/* CTA Buttons */}
           <div className="hidden md:flex items-center gap-4">
             <Link
-              href="#"
+              href="https://dlm-cyan.vercel.app/company/login"
               className="text-sm font-medium text-gray-700 hover:text-primary transition-colors"
             >
               Login
             </Link>
             <Link
-              href="#"
+              href="https://dlm-cyan.vercel.app/company/register"
               className="px-5 py-2.5 bg-primary text-white text-sm font-medium rounded-lg hover:bg-primary-dark transition-colors"
             >
               Get Started
@@ -127,14 +127,14 @@ export default function Navbar() {
               ))}
               <div className="flex flex-col gap-2 pt-4 border-t border-gray-100">
                 <Link
-                  href="#"
+                  href="https://dlm-cyan.vercel.app/company/login"
                   className="text-sm font-medium text-gray-700 hover:text-primary transition-colors"
                   onClick={() => setIsMobileMenuOpen(false)}
                 >
                   Login
                 </Link>
                 <Link
-                  href="#"
+                  href="https://dlm-cyan.vercel.app/company/register"
                   className="px-5 py-2.5 bg-primary text-white text-sm font-medium rounded-lg hover:bg-primary-dark transition-colors text-center"
                   onClick={() => setIsMobileMenuOpen(false)}
                 >

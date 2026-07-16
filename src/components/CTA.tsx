@@ -52,7 +52,7 @@ export default function CTA() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              href="http://192.168.0.120:3000/company/register"
+              href="https://dlm-cyan.vercel.app/company/register"
               className="px-8 py-4 bg-white text-primary font-semibold rounded-xl hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 hover:shadow-lg text-center"
             >
               Get Started
